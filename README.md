@@ -10,4 +10,4 @@ There is a file called `config.example.json`. Copy it and rename the copy `confi
 - base_url: It's currently https://api.steampowered.com . It's in the config just in case it changes.
 - store_base_url: It's currently https://store.steampowered.com . Also there just in case.
 
-To run it simple run `npm run start` on a terminal
+To run it simply run `npm run start` on a terminal
