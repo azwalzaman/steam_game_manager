@@ -1,0 +1,11 @@
+{
+  "name": "steam_game_manager",
+  "version": "1.0.0",
+  "description": "A CLI application to manage your steam games and to pick games from your library to play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azwal Zaman Mohammed",
+  "license": "MIT"
+}
