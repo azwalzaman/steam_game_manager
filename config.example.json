@@ -1,4 +1,6 @@
 {
     "steam_api_key" : "",
-    "player_id" : ""
+    "player_id" : "",
+    "base_url": "",
+    "store_base_url": ""
 }
