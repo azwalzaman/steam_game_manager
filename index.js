@@ -1,7 +1,7 @@
 import readline from 'node:readline/promises';
 
 let choice = 0;
-let message = "Welcome! What can I do for you? \n1. Top 5 Most Played Games \n2. Top 5 Oldest Unplayed Games \n3. Top 5 Newest Unplayed Games \n4. Pick 5 Random Unplayed Games \n5. \n\n";
+let message = "Welcome! What can I do for you? \n1. Top 5 Most Played Games \n2. Top 5 Oldest Unplayed Games \n3. Top 5 Newest Unplayed Games \n4. Pick 5 Random Unplayed Games \n5. Quit \n\n";
 
 const reader = readline.createInterface({
     input: process.stdin,

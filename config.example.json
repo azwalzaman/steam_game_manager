@@ -1,3 +1,4 @@
 {
-    "steam_api_key" : ""
+    "steam_api_key" : "",
+    "player_id" : ""
 }
